@@ -1,6 +1,11 @@
 # Cash_Flow_Minimizer_System
 
 A Java application to minimize the number of transactions between multiple banks using different payment modes.
+When multiple banks owe money to each other, instead of each bank making direct payments to every other bank, this system calculates the minimum number of transactions needed to settle all debts.
+
+Banks can only transact if they share a common payment mode (like various UPI, Wire Transfer, SWIFT, etc.).
+The World Bank (first bank entered) can support all payment modes.
+
 
 ---
 
@@ -76,22 +81,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 🤝 Contributing
 
-Feel free to fork the repository and submit a pull request for any improvements!  
-Issues and suggestions are also welcome.
 
----
-
-## 👨‍💻 Author
-
-- **Your Name** (Replace with your actual name or GitHub username)
-- GitHub: [your-username](https://github.com/your-username)
-
----
-
-## 📢 Acknowledgements
-
-Inspired by classical algorithms for minimizing cash flows among multiple parties using greedy techniques.
-
----
