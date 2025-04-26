@@ -1,9 +1,11 @@
 # Cash_Flow_Minimizer_System
 
 A Java application to minimize the number of transactions between multiple banks using different payment modes.
+
 When multiple banks owe money to each other, instead of each bank making direct payments to every other bank, this system calculates the minimum number of transactions needed to settle all debts.
 
 Banks can only transact if they share a common payment mode (like various UPI, Wire Transfer, SWIFT, etc.).
+
 The World Bank (first bank entered) can support all payment modes.
 
 
