@@ -69,8 +69,6 @@ The program minimizes these debts into the least number of payment transactions,
     java CashFlowMinimizer
     ```
 
-4. **Follow the prompts** on the console to input the number of banks, payment modes, and transactions.
-
 ---
 
 ## 📄 License
